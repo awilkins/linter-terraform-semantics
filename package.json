@@ -5,7 +5,7 @@
   "description": "Linting for things in Terraform",
   "keywords": ["atom-linter", "terraform", "lint", "tags"],
   "activationCommands": {},
-  "repository": "https://github.com/awilkins/linter-terraform-semantics",
+  "repository": "https://github.com/awilkins/linter-terraform-semantics.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
