@@ -1,9 +1,14 @@
 {
   "name": "linter-terraform-semantics",
   "main": "./lib/linter-terraform-semantics",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Linting for things in Terraform",
-  "keywords": ["atom-linter", "terraform", "lint", "tags"],
+  "keywords": [
+    "atom-linter",
+    "terraform",
+    "lint",
+    "tags"
+  ],
   "activationCommands": {},
   "repository": "https://github.com/awilkins/linter-terraform-semantics.git",
   "license": "MIT",
@@ -22,7 +27,7 @@
     "atom-package-deps": "^4.4.1"
   },
   "package-deps": [
-      "linter"
+    "linter"
   ],
   "devDependencies": {
     "babel-eslint": "^7.2.3",
