@@ -32,7 +32,7 @@ e.g. here we have a config where :
 ```json
 {
   "tags": {
-    "*.": {
+    ".*": {
       "Name": "^.*$"
     },
     "aws_ami": {
