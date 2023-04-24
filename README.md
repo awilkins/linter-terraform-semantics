@@ -1,4 +1,6 @@
-# Linter for things in Terraform
+# Atom Linter for things in Terraform
+
+*NB : this repo is abandoned, I stopped using Atom some time ago.*
 
 Initially this is supposed to do one thing :
 
